@@ -1,0 +1,28 @@
+multiplataforma 
+react 
+aplicacion para ensenar a programar - guardar progreso
+ ramas: 
+ #examen por rama - 30 preguntas - opcion multiple 
+ - javascript | examenes recurrentes 
+ - Estructuras de datos | examenes recurrentes 
+ - HTML y CSS | examenes recurrentes 
+ - React | examenes recurrentes Interfaces 
+ - Examen de nivel / de cero || Inicio de sesion o registro 
+ - Pagina con las ramas 
+ - Puntos para secciones extra 
+ - introduccion a backend (teoria) - php
+ - Perfil de usuario 
+Tecnologias: 
+ - React 
+ - Boostrap 
+ - Node / PHP 
+ - MySQL / 000webhost 
+Reparto (29 de Julio): muckups
+ Jorge 
+  - Inicio de sesion 
+  - Rama JavaScript 
+  - Rama React 
+ Osvaldo 
+  - Rama Estructuras de datos 
+  - Rama HTML y CSS 
+  - Perfil 
