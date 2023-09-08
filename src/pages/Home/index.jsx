@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Layout from '../../Components/Layout'
 function Home() {
   return (
-    <div className='underline'>Home</div>
+    <Layout>
+      <div className='underline'>Home</div>
+    </Layout>
   )
 }
 

@@ -1,11 +1,11 @@
 import React from 'react'
 import Layout from '../../Components/Layout'
-function Login() {
+function Content() {
   return (
     <Layout>
-        <div className='underline'>Login</div>
+        <div className='underline'>Content</div>
     </Layout>
   )
 }
 
-export default Login
+export default Content
