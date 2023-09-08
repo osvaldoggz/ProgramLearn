@@ -2,7 +2,7 @@ import React from 'react'
 
 function Layout({children}) {
   return (
-    <div className='flex flex-col items-center pt-5'>
+    <div className='pt-5 text-center'>
         {children}
     </div>
   )

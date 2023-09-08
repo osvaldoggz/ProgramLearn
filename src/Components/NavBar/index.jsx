@@ -3,12 +3,12 @@ import { NavLink } from 'react-router-dom';
 import logo from '../../Img/logo.png';
 function NavBar() {
   return (
-    <nav className='flex items-center w-full font-serif border border-black bg-gray-400'>
+    <nav className='flex items-center w-full font-serif border border-black bg-white'>
         <ul className='flex items-center gap-12'>
             <li>
                 <NavLink 
                     to='/'>
-                    <img className='w-24 h-25 rounded-full ' src={logo} alt="Logo"/>
+                    <img className='w-24 h-25 rounded-full' src={logo} alt="Logo"/>
                 </NavLink>
             </li>
             <li>
