@@ -20,8 +20,8 @@ function Home() {
           <input className='mt-2 w-full border border-black' type="email" id="email" placeholder='Correo electrónico'/><br/>
           <input className='mt-2 w-full border border-black' type="password" id="password" placeholder='Contraseña'/><br/>
           <input className='mt-2 w-full border border-black' type="password" id="password2" placeholder='Repite contraseña'/><br/>
-          <div className='mt-4 border-2 text-base border-green-800 rounded bg-green-500 text-center'>
-            <button type='submit'>Crear</button>
+          <div className='mt-4  text-base rounded text-center transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-green-500 duration-300'>
+            <button className='font-normal' type='submit'>Ingresar</button>
           </div>
         </form>
       </div>
