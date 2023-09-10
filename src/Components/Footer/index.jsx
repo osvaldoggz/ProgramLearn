@@ -18,7 +18,7 @@ function Footer() {
                     <li className='mr-4'>osvaldoggz</li>
                 </div>
             </ul>
-            </div> 
+        </div> 
     </Layout>
   )
 }
